@@ -26,3 +26,8 @@ The project is built as a modern web application using Next.js, TypeScript, and 
 - Transparent voting flow
 - Public proposal results
 - Base Mini App experience
+- Responsive interface built with Tailwind CSS
+- Type-safe frontend code with TypeScript
+- Onchain interaction support through wagmi and viem
+- Icon support through lucide-react
+- Motion and interface transitions with framer-motion
