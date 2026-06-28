@@ -67,3 +67,10 @@ Install dependencies:
 
 ```bash
 npm install
+```
+
+Create a local environment file if needed:
+
+```bash
+cp .env.example .env.local
+```
