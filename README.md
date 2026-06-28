@@ -108,3 +108,9 @@ Vote on available proposals from the app interface.
 Review final or current results directly in the public results view.
 
 ## Development Notes
+
+This project uses Next.js 14 with the App Router conventions used by modern Next.js applications.
+
+Styling is handled with Tailwind CSS.
+
+Blockchain read and write interactions are handled with wagmi and viem.
