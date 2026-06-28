@@ -102,3 +102,9 @@ Do not commit local environment files that contain machine-specific or private v
 Use the app to browse existing proposals and their current results.
 
 Create a proposal through the proposal creation flow.
+
+Vote on available proposals from the app interface.
+
+Review final or current results directly in the public results view.
+
+## Development Notes
