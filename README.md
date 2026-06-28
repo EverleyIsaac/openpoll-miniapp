@@ -53,3 +53,10 @@ The app is configured to interact with the following contract:
 Production target:
 
 - https://openpoll-miniapp.vercel.app
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/EverleyIsaac/openpoll-miniapp.git
