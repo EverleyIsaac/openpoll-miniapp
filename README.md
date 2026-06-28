@@ -88,3 +88,9 @@ Open the local app in your browser:
 ```text
 http://localhost:3000
 ```
+
+## Environment
+
+The project includes an `.env.example` file.
+
+Use `.env.local` for local overrides.
