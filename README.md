@@ -45,3 +45,11 @@ The project is built as a modern web application using Next.js, TypeScript, and 
 ## Contract
 
 The app is configured to interact with the following contract:
+
+- Address: `0x7b9381D03c76a96097aCeEce4e2519EF905c1901`
+
+## Production
+
+Production target:
+
+- https://openpoll-miniapp.vercel.app
