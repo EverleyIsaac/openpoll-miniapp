@@ -128,3 +128,11 @@ Icons are provided by lucide-react.
 5. Test the proposal and voting flows before opening a pull request.
 
 ## Deployment Notes
+
+The listed production target is hosted on Vercel.
+
+Before deploying, confirm that the contract address and environment values are correct for the intended environment.
+
+## License
+
+No license information was provided in the original project documentation.
