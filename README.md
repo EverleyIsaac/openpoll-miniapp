@@ -74,3 +74,10 @@ Create a local environment file if needed:
 ```bash
 cp .env.example .env.local
 ```
+
+The local environment file is only required if you want to override builder attribution values.
+
+Start the development server:
+
+```bash
+npm run dev
