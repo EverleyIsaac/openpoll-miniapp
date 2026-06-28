@@ -114,3 +114,11 @@ This project uses Next.js 14 with the App Router conventions used by modern Next
 Styling is handled with Tailwind CSS.
 
 Blockchain read and write interactions are handled with wagmi and viem.
+
+Animations and interface transitions may use framer-motion.
+
+Icons are provided by lucide-react.
+
+## Suggested Workflow
+
+1. Install dependencies.
