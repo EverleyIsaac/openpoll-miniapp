@@ -19,3 +19,10 @@ The app focuses on three core actions:
 - View results publicly
 
 The project is built as a modern web application using Next.js, TypeScript, and Tailwind CSS.
+
+## Features
+
+- Permissionless proposal creation
+- Transparent voting flow
+- Public proposal results
+- Base Mini App experience
