@@ -31,3 +31,11 @@ The project is built as a modern web application using Next.js, TypeScript, and 
 - Onchain interaction support through wagmi and viem
 - Icon support through lucide-react
 - Motion and interface transitions with framer-motion
+
+## Stack
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- wagmi
+- viem
