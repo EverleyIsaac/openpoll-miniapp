@@ -11,3 +11,11 @@ GitHub: https://github.com/EverleyIsaac/openpoll-miniapp.git
 ## Overview
 
 OpenPoll is designed to make community polling straightforward and transparent.
+
+The app focuses on three core actions:
+
+- Create proposals without a gatekeeper
+- Vote on active proposals
+- View results publicly
+
+The project is built as a modern web application using Next.js, TypeScript, and Tailwind CSS.
