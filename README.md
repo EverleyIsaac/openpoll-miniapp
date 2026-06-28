@@ -39,3 +39,9 @@ The project is built as a modern web application using Next.js, TypeScript, and 
 - Tailwind CSS
 - wagmi
 - viem
+- lucide-react
+- framer-motion
+
+## Contract
+
+The app is configured to interact with the following contract:
