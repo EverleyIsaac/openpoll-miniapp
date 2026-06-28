@@ -60,3 +60,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/EverleyIsaac/openpoll-miniapp.git
+cd openpoll-miniapp
+```
+
+Install dependencies:
+
+```bash
+npm install
