@@ -122,3 +122,9 @@ Icons are provided by lucide-react.
 ## Suggested Workflow
 
 1. Install dependencies.
+2. Create `.env.local` only if local overrides are needed.
+3. Start the development server.
+4. Make changes in a feature branch.
+5. Test the proposal and voting flows before opening a pull request.
+
+## Deployment Notes
