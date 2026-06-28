@@ -94,3 +94,11 @@ http://localhost:3000
 The project includes an `.env.example` file.
 
 Use `.env.local` for local overrides.
+
+Do not commit local environment files that contain machine-specific or private values.
+
+## Usage
+
+Use the app to browse existing proposals and their current results.
+
+Create a proposal through the proposal creation flow.
